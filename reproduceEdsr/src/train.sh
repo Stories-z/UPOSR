@@ -1,0 +1,1 @@
+python main.py --model EDSR --scale 4 --save edsr_baseline_x4 --reset --ext sep
