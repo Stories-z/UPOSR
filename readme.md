@@ -8,7 +8,7 @@ PPTModel/model_best.pt
 
 # 连接
 
-在服务器serverEdsr的src中运行python server.py，且在客户端运行python showImage.py
+在服务器的src中运行python server.py，且在客户端运行python showImage.py
 
 # 训练
 
