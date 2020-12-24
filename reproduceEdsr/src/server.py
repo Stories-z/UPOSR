@@ -156,7 +156,7 @@ args = parser.parse_args()
 
 args.data_test = ["Demo"]
 args.scale = [4]
-args.pre_train = "../experiment/edsr_baseline_x4/model/model_latest.pt"
+args.pre_train = "../experiment/edsr_baseline_x4/model/model_best.pt"
 args.test_only = True
 args.save_results = True
 
